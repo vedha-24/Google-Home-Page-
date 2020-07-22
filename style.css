@@ -1,0 +1,98 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.nav{
+	padding: 30px;
+	display: flex;
+	margin-left: 1100px;
+}
+.content{
+	padding-left: 20px;
+
+	cursor: pointer;
+}
+
+
+
+.google{
+ height: 250px;
+ width: 350px;
+ margin-left: 500px;
+}
+.search{
+	height: 44px;
+	width: 550px;
+	align-items: center;
+	margin-left: 380px;
+	margin-top: -30px;
+	border-radius: 25px;
+	border:1px solid #ebf5ee;
+	box-shadow: 0 3px 6px rgba(0, 0, 0, .16), 0 1px 2px rgba(0, 0, 0, .23);
+	outline: none;
+	padding: 0;
+}
+input{
+	margin-left: 4px;
+	right: 10px;
+	font-size: 16px;
+	padding: -50px;
+}
+
+
+.mic{
+	width: 13px;
+	height: 21px;
+	margin-left: 520px;
+	position: absolute;
+	cursor: pointer;
+}
+.fa-search{
+	
+	margin-left: -570px;
+
+}
+
+
+
+input[type=text]{
+ padding-left:  46px;
+}
+li{
+	list-style: none;
+	float: left;
+	padding: 8px;
+	cursor: pointer;
+
+}
+.logo{
+	width: 30px;
+	height: 24px;
+	margin-top: -2px;
+
+}
+
+button{
+	height: 38px;
+	width: 140px;
+	background-color: #e6e6e6;
+	font-size: 15px;color: #222222;
+	margin-top: 30px; 
+	border:1px solid #a3a5a8;
+	outline: none;
+	cursor: pointer;
+}
+p{
+	margin-left: 550px;
+
+}
+
+button:hover{
+
+	background-color: #a3a5a8;
+}
+li:hover{
+	text-decoration-line: underline;
+}
+
+
